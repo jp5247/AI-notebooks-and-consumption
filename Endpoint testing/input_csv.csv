@@ -1,0 +1,19 @@
+﻿Question,AnswerText,SelectedOptionId,OptionText,FirmId,Category Name,FormTypeID
+"Did you sell, exchange, or purchase any other real estate during the year?",NULL,1,Yes,2629,529/Coverdell Year End Statement ,0
+"Did you pay real estate taxes during the year (not including amounts paid through mortgage escrow)?  If yes and you anticipate itemizing deductions, please provide the amount of real estate taxes paid during the year.",NULL,1,Yes,2131,1099-G Unemployment Compensation,0
+Did you or your spouse have a Health Savings Account (HSA)?,NULL,1,Yes,1928,Rental Income & Expenses (Per Property),0
+Did you purchase rental or royalty property?,NULL,1,Yes,1574,Form 8332,0
+"Did you or your spouse receive any gambling winnings in 2023?  If yes, please provide any Forms W-2G received.",NULL,3,N/A,1141,Cancelled/Forgiven Debt (1099-C),0
+"Did you pay estimated taxes for tax year 2023? If yes, please upload documentation of the estimated tax payments.",NULL,1,Yes,2544,Loan Closing Statement,0
+"Did you or your spouse contribute property (other than cash) with a fair market value of more than $5,000 to a charitable organization?",NULL,3,N/A,1913,State and Local Notices,0
+"Did you or your spouse pay for child care while you worked, looked for work, or were a full-time student?",NULL,3,N/A,1437,Unreimbursed Business Expenses,0
+Did you earn income from a non-US employer?,NULL,1,Yes,2571,December Statement from CollegeInvest or other 529 plan provider,0
+"Did you, your spouse, or a dependent  obtain healthcare coverage through the Marketplace and receive Form 1095-A?",NULL,3,N/A,484,Business auto usage,0
+"Did you sell, exchange, or purchase any other real estate during the year?",NULL,2,No,2011,Non-Cash Contributions,0
+Did you obtain healthcare coverage through the Marketplace?,NULL,3,N/A,1488,Business auto usage,0
+"Did you incur unreimbursed moving expenses? Only applicable for residents moving to the following states: Arkansas, California, Hawaii, Massachusetts, New Jersey, New York and Pennsylvania. ",NULL,2,No,994,IRS/State Notices,0
+ Include Form(s) 1098-T,NULL,1,Yes,528,PPP Loan Details,0
+"Medical Expenses - Did you receive any distributions from a health savings account (HSA), Archer MSA, or Medicare Advantage (MSA) this year?",NULL,2,No,2680,Rental Income & Expenses (Per Property),0
+Please provide documentation or amounts paid per quarter.,NULL,1,Yes,2542,Loan Closing Statement,0
+"Did you incur moving expenses? If yes, please upload documentation of the expenses incurred related to the relocation.",NULL,1,Yes,2708,IRS/State Notices,0
+"Did you sell, exchange, or purchase any other real estate during the year?",NULL,2,No,653,529/Coverdell Year End Statement ,0

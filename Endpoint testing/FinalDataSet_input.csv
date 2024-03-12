@@ -1,0 +1,30 @@
+﻿Question,SelectedOptionId
+You said moved last year. Was this military service related? ,No
+You said moved last year. Was this military service related? ,Yes
+"You indicated retirement contributions or distributions for this year. Did you or your spouse receive payment from retirement, or severance compensation?",No
+"You indicated retirement contributions or distributions for this year. Did you or your spouse receive payment from retirement, or severance compensation?",Yes
+"You indicated retirement contributions or distributions for this year, you will receive a new tax document called 1099-R",N/A
+"You indicated retirement contributions or distributions for this year, did you or your spouse receive deferred, retirement, or severance compensation?",No
+"You indicated retirement contributions or distributions for this year, did you or your spouse receive deferred, retirement, or severance compensation?",Yes
+You indicated a move this year. Was your move military service related?,Yes
+"You indicated a move this year. Was your move due to a military order?  If yes, please upload documentation of the expenses incurred related to the relocation.",No
+"You indicated a move this year, please specify if your move was military service related. If so, please upload moving expenses.",No
+"You indicated a job change this year, please upload W2 associated with new job if applicable. ",Yes
+"You indicated a job change this year, please upload W2 associated with new job if applicable. ",N/A
+"You indicated a job change this year, please share with us your new Form W2. ",N/A
+"You indicated a job change this year, please share with us your new Form W2. ",Yes
+"You indicated a job change this year, please share with us your new Form W2. ",No
+"You indicated a job change this year, do you or your spouse have a new place of employment? If yes, please upload W2 of new employer. ",Yes
+"You indicated a job change this year, do you or your spouse have a new place of employment? If yes, a request to upload the new W2 will appear in the ""Documents"" section of TaxCaddy. ",Yes
+"You indicated a job change this year, did you receive a W-2 from a new employer?",Yes
+"You indicated a job change this year, did you receive a W-2 from a new employer?",N/A
+"You indicated a job change this year, did either you or your spouse start a new job?",Yes
+"You indicated a job change this year, did either you or your spouse start a new job?",N/A
+"You indicated a job change this year, did either you or your spouse start a new job?",No
+"Were you, your spouse or dependent/qualifying individual issued an Identity Protection Personal Identification Number (IP PIN) by the IRS?  If yes, please provide the notice with your assigned IP PIN.  ",No
+Were you or your spouse notified or audited by the IRS or a State taxing agency? Please provide copies.,Yes
+Were you or your spouse notified or audited by the IRS or a State taxing agency? Please provide copies.,No
+"Were you or your spouse notified or audited by the IRS or a State taxing agency? If yes, please upload all pages of any correspondence received by the taxing authorities and indicate whether the issue has been resolved. ",Yes
+"Were you or your spouse notified or audited by the IRS or a State taxing agency? IF YES, please upload a copy of the notice(s).  ",Yes
+Were you or your spouse notified or audited by the IRS or a State taxing agency?,Yes
+Were you or your spouse notified or audited by the IRS or a State taxing agency?,No
